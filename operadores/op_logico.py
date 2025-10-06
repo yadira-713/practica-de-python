@@ -17,3 +17,4 @@ resultado10 = not False #devolver true
 print(resultado) 
 
 type(15)
+type(15.5)
